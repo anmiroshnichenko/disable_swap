@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  remote_user: miroshnichenko_an
+  roles:
+    - disable-swap
